@@ -5,6 +5,7 @@
 The purpose of this project was to clean, organise, and explore the SAFI (Studying African Farmer-Led Irrigation) dataset. The original data was stored in an Excel workbook containing separate worksheets for Mozambique and Tanzania. Before analysis, the data needed to be consolidated into a single, structured dataset that followed tidy data principles.
 The project focused on preparing the data for analysis in R, exploring household and agricultural characteristics, and producing preliminary summaries and visualisations.
 
+
 **2. Dataset**
 
 The SAFI dataset contains household survey data collected in Tanzania and Mozambique through interviews conducted between November 2016 and June 2017.
@@ -19,9 +20,11 @@ The original dataset was provided in an Excel workbook with separate worksheets 
 
 The cleaned dataset was also exported to CSV format as safi_clean.csv for use in R.
 
+
 **3. Methods**
 
 The project followed a structured data cleaning and preliminary analysis workflow.
+
 
 **Data cleaning and tidying**
 
@@ -30,6 +33,7 @@ The project followed a structured data cleaning and preliminary analysis workflo
 - Added a country column as the first column to distinguish observations from Mozambique and Tanzania.
 - Combined the two country datasets into a single table.
 - Saved the cleaned dataset in Excel format as safi_clean and exported it to CSV format as safi_clean.csv.
+
 
 **Data import and exploration in R**
 
@@ -46,6 +50,7 @@ The project followed a structured data cleaning and preliminary analysis workflo
 
 These steps supported an initial assessment of the dataset's structure and characteristics and prepared the data for further exploratory data analysis.
 
+
 **4. Tools and Technologies**
 
 The following tools and technologies were used:
@@ -57,6 +62,7 @@ The following tools and technologies were used:
 - **Base R:** Inspecting data structures, calculating summary statistics, subsetting observations, generating frequency tables, and creating bar plots.
 
 The project utilised practical skills in spreadsheet data management, data cleaning, data wrangling, descriptive analysis, and reproducible reporting.
+
 
 **5. Key Insights and Outcomes**
 
