@@ -1,4 +1,4 @@
-# Data Management & Wrangling: SAFI Data Cleaning and Preliminary Analysis
+# SAFI Data Cleaning and Preliminary Analysis
 
 **1. Problem**
 
