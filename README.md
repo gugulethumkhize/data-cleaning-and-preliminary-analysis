@@ -1,12 +1,12 @@
 # SAFI Data Cleaning and Preliminary Analysis
 
-**1. Problem**
+**Problem**
 
 The purpose of this project was to clean, organise, and explore the SAFI (Studying African Farmer-Led Irrigation) dataset. The original data was stored in an Excel workbook containing separate worksheets for Mozambique and Tanzania. Before analysis, the data needed to be consolidated into a single, structured dataset that followed tidy data principles.
 The project focused on preparing the data for analysis in R, exploring household and agricultural characteristics, and producing preliminary summaries and visualisations.
 
 
-**2. Dataset**
+**Dataset**
 
 The SAFI dataset contains household survey data collected in Tanzania and Mozambique through interviews conducted between November 2016 and June 2017.
 
@@ -21,7 +21,7 @@ The original dataset was provided in an Excel workbook with separate worksheets 
 The cleaned dataset was also exported to CSV format as safi_clean.csv for use in R.
 
 
-**3. Methods**
+**Methods**
 
 The project followed a structured data cleaning and preliminary analysis workflow.
 
@@ -51,7 +51,7 @@ The project followed a structured data cleaning and preliminary analysis workflo
 These steps supported an initial assessment of the dataset's structure and characteristics and prepared the data for further exploratory data analysis.
 
 
-**4. Tools and Technologies**
+**Tools and Technologies**
 
 The following tools and technologies were used:
 
@@ -64,7 +64,7 @@ The following tools and technologies were used:
 The project utilised practical skills in spreadsheet data management, data cleaning, data wrangling, descriptive analysis, and reproducible reporting.
 
 
-**5. Key Insights and Outcomes**
+**Key Insights and Outcomes**
 
 The project produced a cleaned and analysis-ready SAFI dataset combining household survey data from Mozambique and Tanzania. The data was prepared for further analysis using Excel and R.
 
